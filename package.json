@@ -1,0 +1,24 @@
+{
+  "name": "typeScriptOnline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnsmith1500/typeScriptOnline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnsmith1500/typeScriptOnline/issues"
+  },
+  "homepage": "https://github.com/johnsmith1500/typeScriptOnline#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "live-server": "^1.2.1"
+  }
+}
