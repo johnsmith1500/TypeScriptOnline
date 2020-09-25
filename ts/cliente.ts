@@ -3,6 +3,11 @@ namespace empresa{
         private _codCliente:number;
         private _credito:number;
 
+        constructor(nome:string, codigoCliente:number){
+            super(nome);
+            this._codCliente = codigoCliente;
+        }
+
         get codCliente():number{
             return this._codCliente;
         }
